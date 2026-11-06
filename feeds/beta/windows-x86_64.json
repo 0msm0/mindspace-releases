@@ -1,0 +1,15 @@
+{
+    "version":  "0.1.0",
+    "notes":  "First private beta of MindSpace for Windows.",
+    "pub_date":  "2026-11-06T05:44:51Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNUlCcWNLVTZNTnBIQzZvSHJpaXdRMFJaQ1JPWktuaFoyNHh1RUhYNzV1U2pqTXU4bEhSRDRhZ1N0R3F3ekpPdEQ4QXlaaXZKSFhsMG1SL3BJWHpkU0hWdDd5M1RBSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQzODkwCWZpbGU6TWluZFNwYWNlXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAptZnFhS3BvcEgwaE1QUy92Ri9HMFJGbk9UTG9yczhSS1JNMWR3SFlaeXVCQTBqZUduQ2VoQzY5OUZTVFZRcTRCWGhLcWhkaFMvRmFtbk1McHdvSmNDQT09Cg==",
+                                             "url":  "https://github.com/0msm0/mindspace-releases/releases/download/v0.1.0/MindSpace_0.1.0_x64-setup.exe"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNUlCcWNLVTZNTnBIQzZvSHJpaXdRMFJaQ1JPWktuaFoyNHh1RUhYNzV1U2pqTXU4bEhSRDRhZ1N0R3F3ekpPdEQ4QXlaaXZKSFhsMG1SL3BJWHpkU0hWdDd5M1RBSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQzODkwCWZpbGU6TWluZFNwYWNlXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAptZnFhS3BvcEgwaE1QUy92Ri9HMFJGbk9UTG9yczhSS1JNMWR3SFlaeXVCQTBqZUduQ2VoQzY5OUZTVFZRcTRCWGhLcWhkaFMvRmFtbk1McHdvSmNDQT09Cg==",
+                                                  "url":  "https://github.com/0msm0/mindspace-releases/releases/download/v0.1.0/MindSpace_0.1.0_x64-setup.exe"
+                                              }
+                  }
+}
